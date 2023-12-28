@@ -4,4 +4,8 @@
 - 💬 Collaborations? Most welcome!
 - 🤙 Outside technical? Sightseeing, Photography, Singing, Politics!
 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithdv)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
