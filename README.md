@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400" />
 
-<h1 align="center">Hi theere 👋, Deekshith here</h1>
+<h1 align="center">Hi there 👋, Deekshith here</h1>
 
 - 🔭 Software Engineer working in Japan
 - 🌱 Focused mainly on **Backend and Mobile app development**
